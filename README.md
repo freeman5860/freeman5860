@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **freeman5860/freeman5860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +19,5 @@ Here are some ideas to get you started:
 
 Building AI-powered products for the global market. 
 
+[🔗 MindCache](https://github.com/freeman5860/MindCache) — Local-First Memory Assistant
 [🔗 laojin](https://laojin.blog) — My personal blog
