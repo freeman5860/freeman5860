@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 Building AI-powered products for the global market. 
 
 [🔗 MindCache](https://github.com/freeman5860/MindCache) — Local-First Memory Assistant
-[🔗 laojin](https://laojin.blog) — My personal blog
+
+[🔗 LaojinBlog](https://laojin.blog) — My personal blog
