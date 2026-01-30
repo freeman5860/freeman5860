@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Freeman 👋
+
+📍 Guangzhou, China | 🚀 Indie Developer
+
+Building AI-powered products for the global market. 
+
+[🔗 laojin](https://laojin.blog) — My personal blog
