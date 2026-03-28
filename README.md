@@ -25,6 +25,8 @@ Building AI-powered products for the global market.
 
 [🔗 NanoNovelWriter](https://github.com/freeman5860/NanoNovelWriter) — AI-assisted novel writing tool with chapter management, rich text editor, and Gemini/Claude streaming generation
 
+[🔗 Wisp](https://github.com/freeman5860/Wisp) — AI-powered writing tool
+
 [🔗 MySkills](https://github.com/freeman5860/MySkills) — A collection of reusable Claude Code Skills for sharing, learning, and collaboration
 
 [🔗 LaojinBlog](https://laojin.blog) — My personal blog
