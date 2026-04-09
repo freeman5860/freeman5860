@@ -29,8 +29,6 @@ Building AI-powered products for the global market.
 
 [🔗 KnowledgeBase](https://github.com/freeman5860/KnowledgeBase) — LLM-powered personal knowledge base with Obsidian integration
 
-[🔗 Claude Code Best Practice](https://github.com/freeman5860/claude-code-best-practice) — A comprehensive knowledge base for mastering Claude Code, covering sub-agents, skills, workflows, hooks, MCP servers, plugins, and 86+ practical tips
-
 [🔗 MySkills](https://github.com/freeman5860/MySkills) — A collection of reusable Claude Code Skills for sharing, learning, and collaboration
 
 [🔗 LaojinBlog](https://laojin.blog) — My personal blog
