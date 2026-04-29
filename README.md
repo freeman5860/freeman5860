@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 Building AI-powered products for the global market. 
 
+[🔗 TinyPA](https://github.com/freeman5860/TinyPA) — PWA-based personal assistant that turns fragmented thoughts into actionable items, notes, and daily summaries with AI
+
 [🔗 MindCache](https://github.com/freeman5860/MindCache) — Local-First Memory Assistant
 
 [🔗 TubeG](https://github.com/freeman5860/TubeG) — Auto-track trending topics (Google Trends/YouTube/Reddit) and generate AI video prompts & scripts with Gemini
